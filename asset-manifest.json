@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/realproject/static/css/main.2cd95d00.css",
-    "main.js": "/realproject/static/js/main.b1afbc62.js",
+    "main.css": "/realproject/static/css/main.fb47304d.css",
+    "main.js": "/realproject/static/js/main.c044e755.js",
     "static/media/gamebooks.png": "/realproject/static/media/gamebooks.62148324ef572f506332.png",
     "static/media/lethal.png": "/realproject/static/media/lethal.b8c606ed59f2097fbb75.png",
     "static/media/fsa.png": "/realproject/static/media/fsa.b079dae0ebc7c8a742e8.png",
@@ -14,11 +14,11 @@
     "index.html": "/realproject/index.html",
     "static/media/test-tube-minimalistic-svgrepo-com.svg": "/realproject/static/media/test-tube-minimalistic-svgrepo-com.995bc50693de65a1235687556c75830c.svg",
     "static/media/user-svgrepo-com.svg": "/realproject/static/media/user-svgrepo-com.50c500cb164943acb22f0c949b73bcd9.svg",
-    "main.2cd95d00.css.map": "/realproject/static/css/main.2cd95d00.css.map",
-    "main.b1afbc62.js.map": "/realproject/static/js/main.b1afbc62.js.map"
+    "main.fb47304d.css.map": "/realproject/static/css/main.fb47304d.css.map",
+    "main.c044e755.js.map": "/realproject/static/js/main.c044e755.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cd95d00.css",
-    "static/js/main.b1afbc62.js"
+    "static/css/main.fb47304d.css",
+    "static/js/main.c044e755.js"
   ]
 }
