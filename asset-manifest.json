@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/realproject/static/css/main.2cd95d00.css",
+    "main.js": "/realproject/static/js/main.b1afbc62.js",
+    "static/media/gamebooks.png": "/realproject/static/media/gamebooks.62148324ef572f506332.png",
+    "static/media/lethal.png": "/realproject/static/media/lethal.b8c606ed59f2097fbb75.png",
+    "static/media/fsa.png": "/realproject/static/media/fsa.b079dae0ebc7c8a742e8.png",
+    "static/media/deadcover.png": "/realproject/static/media/deadcover.525461018bf3091e0464.png",
+    "static/media/marketing-speaker-svgrepo-com.svg": "/realproject/static/media/marketing-speaker-svgrepo-com.39871ff1d225cca3c3d9f16577ad6245.svg",
+    "static/media/c-sharp-c.svg": "/realproject/static/media/c-sharp-c.93ba21ebf5c7f4e5fb94538c4c948fec.svg",
+    "static/media/joystick-svgrepo-com.svg": "/realproject/static/media/joystick-svgrepo-com.7c33736b5f22ad93474486acfaa070df.svg",
+    "static/media/c.svg": "/realproject/static/media/c.c2926ce8baf39e14b40727267dbfcd93.svg",
+    "static/media/cube-svgrepo-com.svg": "/realproject/static/media/cube-svgrepo-com.dbd485029ee7bf2d18ee18250f36bde4.svg",
+    "index.html": "/realproject/index.html",
+    "static/media/test-tube-minimalistic-svgrepo-com.svg": "/realproject/static/media/test-tube-minimalistic-svgrepo-com.995bc50693de65a1235687556c75830c.svg",
+    "static/media/user-svgrepo-com.svg": "/realproject/static/media/user-svgrepo-com.50c500cb164943acb22f0c949b73bcd9.svg",
+    "main.2cd95d00.css.map": "/realproject/static/css/main.2cd95d00.css.map",
+    "main.b1afbc62.js.map": "/realproject/static/js/main.b1afbc62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd95d00.css",
+    "static/js/main.b1afbc62.js"
+  ]
+}
